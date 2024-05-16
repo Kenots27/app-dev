@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Add info about your favorite series:
