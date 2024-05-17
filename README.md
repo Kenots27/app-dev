@@ -21,7 +21,6 @@ My first repository
 I love *One Piece* because of its **characters**, **places**, and the **back stories**
 
 ### Favorite Arcs
-| ----------- | ----------- |
 
 1. *Wano Arc*
 2. *EggHead Arc*
